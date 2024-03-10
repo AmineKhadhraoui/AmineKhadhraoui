@@ -3,17 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminekhadhraoui&label=Profile%20views&color=0e75b6&style=flat" alt="aminekhadhraoui" /> </p>
 
-- 🔭 I’m currently working on **Xpert-Factor**
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <ul>
+            <li>🔭 I’m currently working on <strong>Xpert-Factor</strong></li>
+            <li>🌱 I’m currently learning <strong>Next Js</strong></li>
+            <li>👯 I’m looking to collaborate on <strong>An apprenticeship</strong></li>
+            <li>💬 Ask me about <strong>MERN, Angular, Springboot, php</strong></li>
+            <li>📫 How to reach me <a href="mailto:aminekhadhraoui2017@gmail.com">aminekhadhraoui2017@gmail.com</a></li>
+            <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1bubd34cwbl-LNgu2XqR5Xin6F0AJqsfA/view?usp=sharing">here</a></li>
+        </ul>
+    </div>
+    <div style="flex: 1;">
+        <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="animated image" style="max-width: 100%;">
+    </div>
+</div>
 
-- 🌱 I’m currently learning **Next Js**
-
-- 👯 I’m looking to collaborate on **An apprenticeship**
-
-- 💬 Ask me about **MERN , Angular , Springboot , php**
-
-- 📫 How to reach me **aminekhadhraoui2017@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bubd34cwbl-LNgu2XqR5Xin6F0AJqsfA/view?usp=sharing](https://drive.google.com/file/d/1bubd34cwbl-LNgu2XqR5Xin6F0AJqsfA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
