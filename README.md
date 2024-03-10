@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋 ,I'm</h1>
 <img src="https://res.cloudinary.com/dns4m6mbs/image/upload/v1710085018/Navy_Blue_Geometric_Technology_LinkedIn_Banner_1_orab4y.png" alt="Banner Image">
 <img align="right" width="400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="animated image" style="max-width: 100%;">
 
