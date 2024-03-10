@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amine Khadhraoui</h1>
 <h3 align="center">A passionate Full-Stack developer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminekhadhraoui&label=Profile%20views&color=0e75b6&style=flat" alt="aminekhadhraoui" /> </p>
-
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <ul>
             <li>🔭 I’m currently working on <strong>Xpert-Factor</strong></li>
@@ -14,10 +12,11 @@
             <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1bubd34cwbl-LNgu2XqR5Xin6F0AJqsfA/view?usp=sharing">here</a></li>
         </ul>
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 1; text-align: center;">
         <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="animated image" style="max-width: 100%;">
     </div>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
