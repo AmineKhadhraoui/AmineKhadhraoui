@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amine Khadhraoui</h1>
-<h3 align="center">A passionate Full-Stack developer from Tunisia</h3>
+<h1 align="center">Hi 👋</h1>
+<img src="https://res.cloudinary.com/dns4m6mbs/image/upload/v1710085018/Navy_Blue_Geometric_Technology_LinkedIn_Banner_1_orab4y.png" alt="Banner Image">
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
