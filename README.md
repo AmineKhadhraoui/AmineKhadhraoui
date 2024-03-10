@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋</h1>
 <img src="https://res.cloudinary.com/dns4m6mbs/image/upload/v1710085018/Navy_Blue_Geometric_Technology_LinkedIn_Banner_1_orab4y.png" alt="Banner Image">
+      <img align="right" width="400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="animated image" style="max-width: 100%;">
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <ul>
-            <li>🔭 I’m currently working on <strong>Xpert-Factor</strong></li>
-            <li>🌱 I’m currently learning <strong>Next Js</strong></li>
-            <li>👯 I’m looking to collaborate on <strong>An apprenticeship</strong></li>
-            <li>💬 Ask me about <strong>MERN, Angular, Springboot, php</strong></li>
-            <li>📫 How to reach me <a href="mailto:aminekhadhraoui2017@gmail.com">aminekhadhraoui2017@gmail.com</a></li>
-            <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1bubd34cwbl-LNgu2XqR5Xin6F0AJqsfA/view?usp=sharing">here</a></li>
-        </ul>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="animated image" style="max-width: 100%;">
-    </div>
-</div>
+
+
+        
+- 🔭 I’m currently working on **Xpert-Factor**
+
+- 🌱 I’m currently learning **Next Js**
+
+- 👯 I’m looking to collaborate on **An apprenticeship**
+
+- 💬 Ask me about **MERN , Angular , Springboot , php**
+
+- 📫 How to reach me **aminekhadhraoui2017@gmail.com**
+
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1bubd34cwbl-LNgu2XqR5Xin6F0AJqsfA/view?usp=sharing">here</a>
+   
+ 
+  
+    
+
+
 
 
 
