@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <img src="https://res.cloudinary.com/dns4m6mbs/image/upload/v1710085018/Navy_Blue_Geometric_Technology_LinkedIn_Banner_1_orab4y.png" alt="Banner Image">
-      <img align="right" width="400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="animated image" style="max-width: 100%;">
+<img align="right" width="400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="animated image" style="max-width: 100%;">
 
 
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amine khadhraoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine khadhraoui" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/amine-khadhraoui-76b80b238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine khadhraoui" height="30" width="40" /></a>
 <a href="https://fb.com/amine khadhraoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amine khadhraoui" height="30" width="40" /></a>
 <a href="https://instagram.com/amine__khadhraoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amine__khadhraoui" height="30" width="40" /></a>
 </p>
